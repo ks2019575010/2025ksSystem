@@ -116,7 +116,7 @@ cmd에서 wsl로 리눅스 실행가능
 
 # 운영체제에서 다뤄야하는 명령어
 
-![image.png](attachment:d0155f28-06cd-406b-8dd2-4ce91700c942:image.png)
+![image (6)](https://github.com/user-attachments/assets/6eb34b08-0ca7-4ee0-be38-ba666e51451f)
 
 파일
 
@@ -151,7 +151,7 @@ root도 저걸 가지고 있다.
 
 ## 디렉토리 용어 4가지
 
-![image.png](attachment:5f5f2bcc-1a67-441d-a6f8-29382df1525b:image.png)
+![image (7)](https://github.com/user-attachments/assets/4ec8227c-7e54-4c21-b8cf-6ba9e8c99601)
 
 / = root directory
 
@@ -191,7 +191,7 @@ cd home은 내가 /에 위치한 것이 아니라면 갈 수 없다.
 
 ## 파일생성
 
-![image.png](attachment:d1080533-ca97-4b0a-acf3-e8cdb82a4fae:image.png)
+![image (8)](https://github.com/user-attachments/assets/885a5793-c7e5-425f-b76f-1c08bd47c50d)
 
 cat >
 
@@ -211,13 +211,14 @@ ls -f와 ll은 비슷하다?
 
 ## ll을 쳤을때 나오는것
 
-![image.png](attachment:7fa84a3e-1a23-4e91-a53b-c85621b27707:image.png)
+![image (9)](https://github.com/user-attachments/assets/c918b280-3a8f-4552-8ae5-b958ede962d8)
+
 
 파일이름, 파일관련된 정보, 파일이 지니고 있는 내용
 
 ---
 
-![image.png](attachment:5ea95723-e662-4f2d-9a74-a7db7e4fc5c3:image.png)
+![image (10)](https://github.com/user-attachments/assets/acb4144f-8179-41e9-b30c-b2f2bf114b88)
 
 echo $path
 
@@ -240,4 +241,4 @@ echo $path
 
 위 표처럼 만들고 tree 명령어로 캡쳐
 
-![image.png](attachment:99d2e5d2-f8ca-4f63-99fc-45bffb754a07:image.png)
+![image (11)](https://github.com/user-attachments/assets/39b9c9f6-338e-41fe-802b-149672761b9f)
