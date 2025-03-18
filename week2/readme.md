@@ -1,6 +1,7 @@
 # 1장
 
-![image.png](attachment:5b71b2d1-b5e9-49bd-993b-f5314441dcb5:image.png)
+![image](https://github.com/user-attachments/assets/db8d8cfd-b490-4a6c-a1d6-292ba08d92ce)
+
 
  BSD 유닉스(Unix) = 무료 유닉스
 
@@ -8,7 +9,8 @@
 
 # 유닉스 특징
 
-![image.png](attachment:fa46218d-0d83-43a7-a7fb-db12a818c832:image.png)
+![image (1)](https://github.com/user-attachments/assets/8f7eae3a-c81d-4e96-8237-35e24bc66512)
+
 
 - 다중 사용자 - 로그인을 여러명이서 할 수 있음(리눅스 동일)
 - 다중 프로세스 - 다른 여러 프로그래밍 동시에 실행가능
@@ -19,7 +21,7 @@ ls 명령어를 사용한 파워쉘이 그런것
 
 # 유닉스 운영체제
 
-![image.png](attachment:0e8a6453-e12c-4e64-bbd1-33fdad4144a3:image.png)
+![image (2)](https://github.com/user-attachments/assets/6670afdc-9ef1-4492-9483-9ca312e67a22)
 
 커널이란 무엇인가? = ?
 
@@ -49,11 +51,12 @@ ls 명령어를 사용한 파워쉘이 그런것
 
 # 커널
 
-![image.png](attachment:80358145-5649-4d23-a0ff-8c63bceaf754:image.png)
+![image (3)](https://github.com/user-attachments/assets/02c65a72-05a2-4e49-a0d6-8d82791d370c)
 
-![image.png](attachment:8f60f034-c753-4b6a-8069-66135b2222a7:image.png)
 
-![image.png](attachment:8683a6b8-ba01-41e3-906d-0a5a70a66268:image.png)
+![image (4)](https://github.com/user-attachments/assets/bd44fc4a-02c9-459f-ad6b-ccbac8c0fba1)
+
+![image (5)](https://github.com/user-attachments/assets/f89fa1e0-3420-4e48-89db-073a3c85ecac)
 
 파일관리란
 
