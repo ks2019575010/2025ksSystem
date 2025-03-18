@@ -232,7 +232,6 @@ echo $path
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | → | LP | →compilar,a.txt |
 |  |  |  | →util,c.txt |  | →interpreter,b.txt |
-|  |  |  |  |  |  |
 |  | → | app,d.txt |  |  |  |
 
 ---
