@@ -21,6 +21,13 @@ int main() {
         num /= 2;
     }
     
+    // 2진수 출력
+    printf("2진수: ");
+    for (i = 0; i < 8; i++) {
+        printf("%d", binary[i]);
+    }
+    printf("\n");
+    
     // 1의 개수 계산 및 출력
     for (i = 0; i < 8; i++) {
         if (binary[i] == 1) {
