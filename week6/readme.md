@@ -12,7 +12,8 @@ vi에는 3가지 모드가 있다.
 
 ### 입력모드(편집모드)
 
-![image.png](attachment:9506faf1-e06f-4b91-82e8-33293c3e5930:image.png)
+![image (7)](https://github.com/user-attachments/assets/57e2048a-d916-4b30-aaed-2becaff136a1)
+
 
 a,i,o,s 중 하나 누르면 명령모드에서 입력모드
 
@@ -38,7 +39,8 @@ a,i,o,s 중 하나 누르면 명령모드에서 입력모드
 
 # vim 정규표현식
 
-![image.png](attachment:18ae69ef-3842-4ca8-82c4-14e3a8ab7162:image.png)
+![image (8)](https://github.com/user-attachments/assets/ce5bd79d-5515-4fe3-ba94-00d9e8bfdf63)
+
 
 ---
 
@@ -52,7 +54,6 @@ Linux Command Line and Shell Scripting Bible, 2nd Edition
 
 의 9장에 vim이 있다.
 
-![image.png](attachment:8e8f3285-8c72-47c4-820d-16aa64d1035f:image.png)
 
 ---
 
@@ -66,17 +67,20 @@ x가 곧 bat이랑 같다.
 
 chmod로 x를 추가해 줄 수 있다.
 
-![image.png](attachment:c516b8a7-322c-4dca-b612-fe13b9db7a53:image.png)
+![image (9)](https://github.com/user-attachments/assets/043529ca-36be-48d4-98d0-efa2299a4064)
+
 
 test1에 date, ls만 적었다.
 
 ---
 
-![image.png](attachment:4758544b-0a14-4374-a064-5e1a1039cbd5:image.png)
+![image (10)](https://github.com/user-attachments/assets/dd27ccbb-1115-4f7c-a1e2-ff6620b6c6c2)
+
 
 g로 시작하는 명령어중 가장 최신의 것
 
-![image.png](attachment:ab5e36bf-8aa3-493d-acd1-c40a5f3c2e12:image.png)
+![image (11)](https://github.com/user-attachments/assets/ce9edb14-6de3-4c42-8984-9f84f2398c20)
+
 
 main은 cm
 
@@ -88,17 +92,7 @@ return은 clm?
 
 ---
 
-test1
 
-![image.png](attachment:180244ef-029b-49a0-9668-b9e914bf17a1:image.png)
-
-test 2
-
-![image.png](attachment:886d5f95-31b8-4180-bc4a-2dc3cb83cfcc:image.png)
-
-![image.png](attachment:7c35bbcf-fdf5-4070-9f1b-ba4a16b50631:image.png)
-
----
 
 vi에서
 
@@ -138,21 +132,15 @@ st로 만듬
 
 # 리눅스 수학연산
 
-![image.png](attachment:28d17a9c-59a8-497f-8285-0aab4aa84783:image.png)
+![image (12)](https://github.com/user-attachments/assets/38e7a612-2f35-494b-903b-0500a7a50f1c)
 
 위는 1+5를 문자열로 받았다
 
 리눅스는 상황에따라 띄어쓰기를 해야할때와 아닐때가 다르다.
 
-![image.png](attachment:a1bd4135-3f46-4689-9b6c-956eba29ca3b:image.png)
-
-![image.png](attachment:7d6420b6-aaff-4176-bb8a-780539262e6c:image.png)
-
 =은 붙이고 +같은 오퍼레이터는 띄어쓴다.
 
 작은 따옴’표가 아니라 ` 이거 써야한다.
-
-![image.png](attachment:ee0a917a-ae93-446e-a366-aa461aa0bd84:image.png)
 
 exit 5라서 echo $?가 5로 나온다.
 
@@ -169,7 +157,8 @@ fi
 
 cat /etc/passwd
 
-![image.png](attachment:d1fbc162-2b92-4942-baa4-5e946d18278d:image.png)
+![image (13)](https://github.com/user-attachments/assets/8a37c922-120b-4a7c-84b3-218aace21f53)
+
 
 ### 🔒 `x`의 의미
 
@@ -213,7 +202,8 @@ elif
 
 ---
 
-![image.png](attachment:bc2dc267-5351-4958-9d20-955593866835:image.png)
+![image (14)](https://github.com/user-attachments/assets/31a6f1a1-5481-43ba-b8b0-416f416b2ab8)
+
 
 여기서 testing이 널인지 아닌지 파일마다 다르다
 
